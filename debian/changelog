@@ -1,3 +1,9 @@
+wpa (2.3-1+deb8u3scibian1) jessie-security; urgency=medium
+
+  * Add D-Bus-allow-setting-empty-network-properties.patch
+
+ -- Scibian Packaging Team <packaging@scibian.org>  Tue, 23 Aug 2016 15:01:55 +0200
+
 wpa (2.3-1+deb8u3) jessie-security; urgency=high
 
   * Non-maintainer upload by the Security Team.
